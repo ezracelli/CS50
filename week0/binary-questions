@@ -1,0 +1,14 @@
+50 binary -> 110010 binary
+
+-----------------------------------
+
+'A' == 65 && 'a' == 97
+
+65 decimal -> 1000001 binary
+97 decimal -> 1100001 binary
+
+One bit must be flipped.
+
+-----------------------------------
+
+50 decimal -> 0x32 hexadecimal
